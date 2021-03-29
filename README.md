@@ -63,10 +63,36 @@ It's a repository gathering resources about css.
 
 > _https://htmlcheatsheet.com/css/_
 
+> _https://ilovecoding.org/courses/htmlcss2_
+
+> _https://devhints.io/_
+
+> _https://grid.malven.co/_
+
+> _https://flexbox.malven.co/_
+
+> _https://yoksel.github.io/flex-cheatsheet/_
+
 
 
 # Colors
 > _https://cssgradient.io/_
+
+
+
+# Animations
+> _https://animate.style/_
+
+> _https://tholman.com/obnoxious/_
+
+> _https://elrumordelaluz.github.io/csshake/_
+
+> _https://animxyz.com/_
+
+> _https://animista.net/_
+
+> _https://www.minimamente.com/project/magic/_
+
 
 
 
@@ -85,3 +111,10 @@ It's a repository gathering resources about css.
 > _https://github.com/AllThingsSmitty/css-protips_
 
 > _https://github.com/afonsopacifer/awesome-flexbox_
+
+
+
+# Chrome Extensions
+> _https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk_
+
+> _https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg_
