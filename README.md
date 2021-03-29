@@ -19,6 +19,18 @@ It's a repository gathering resources about frontend.
 
 
 
+# Code Snippets
+> _https://webcode.tools/generators/css_
+
+> _https://www.littlesnippets.net/_
+
+> _https://enjoycss.com/_
+
+> _https://css-tricks.com/snippets/css/_
+
+> _https://cssdeck.com/_
+
+
 # Editor & Tools
 > _https://www.magicpattern.design/tools/blob-generator_
 
