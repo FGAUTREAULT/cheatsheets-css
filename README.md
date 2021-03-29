@@ -42,3 +42,7 @@ It's a repository gathering resources about frontend.
 > _https://cssreference.io/_
 
 > _https://htmlcheatsheet.com/css/_
+
+
+# Colors
+> _https://cssgradient.io/_
