@@ -2,10 +2,6 @@
 
 It's a repository gathering resources about css.
 
-# Welcome to cheatsheets-frontend
-
-It's a repository gathering resources about frontend.
-
 # Learning
 > _https://learn.shayhowe.com/_
 
@@ -19,6 +15,15 @@ It's a repository gathering resources about frontend.
 
 
 
+# Documentation
+> _https://www.w3schools.com/css/_
+
+> _https://developer.mozilla.org/en-US/docs/Web/CSS_
+
+> _https://devdocs.io/css/_
+
+
+
 # Code Snippets
 > _https://webcode.tools/generators/css_
 
@@ -29,6 +34,9 @@ It's a repository gathering resources about frontend.
 > _https://css-tricks.com/snippets/css/_
 
 > _https://cssdeck.com/_
+
+> _https://codemyui.com/_
+
 
 
 # Editor & Tools
@@ -56,5 +64,24 @@ It's a repository gathering resources about frontend.
 > _https://htmlcheatsheet.com/css/_
 
 
+
 # Colors
 > _https://cssgradient.io/_
+
+
+
+# Inspiration
+> _https://cssnectar.com/_
+
+> _https://www.csswinner.com/_
+
+
+
+# Repo GitHub
+> _https://github.com/awesome-css-group/awesome-css_
+
+> _https://github.com/30-seconds/30-seconds-of-css_
+
+> _https://github.com/AllThingsSmitty/css-protips_
+
+> _https://github.com/afonsopacifer/awesome-flexbox_
