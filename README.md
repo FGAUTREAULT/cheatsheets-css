@@ -63,6 +63,7 @@ It's a repository gathering resources about css.
 > _https://animxyz.com/_  
 > _https://animista.net/_  
 > _https://www.minimamente.com/project/magic/_  
+> _https://emilkowalski.github.io/css-effects-snippets/_  
 
 
 
