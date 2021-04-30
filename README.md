@@ -8,7 +8,6 @@ It's a repository gathering resources about css.
 > _https://www.csstutorial.net/_  
 > _https://unminify.com/_  
 > _http://extractcss.com/_  
-> _https://www.smashingmagazine.com/2021/03/css-generators/_  
 
 
 
@@ -29,7 +28,13 @@ It's a repository gathering resources about css.
 
 
 
+# Audit
+> _https://www.smashingmagazine.com/2021/03/css-auditing-tools/_  
+
+
+
 # Editor & Tools
+> _https://www.smashingmagazine.com/2021/03/css-generators/_  
 > _https://www.magicpattern.design/tools/blob-generator_  
 > _https://www.heropatterns.com/_  
 > _https://stripesgenerator.com/_  
