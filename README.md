@@ -8,6 +8,7 @@ It's a repository gathering resources about css.
 > _https://www.csstutorial.net/_  
 > _https://unminify.com/_  
 > _http://extractcss.com/_  
+> _https://www.smashingmagazine.com/2021/03/css-generators/_  
 
 
 
