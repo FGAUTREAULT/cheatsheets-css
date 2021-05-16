@@ -51,8 +51,8 @@ It's a repository gathering resources about css.
 > _https://accordionslider.com/_  
 > _https://grid.layoutit.com/_  
 > _https://keyframes.app/_  
-> _https://bennettfeely.com/clippy/_  //Css clippath shapes
-> _https://jsonformatter.org/scss-to-css_  // Css converter
+> _https://bennettfeely.com/clippy/_  //Css clippath shapes  
+> _https://jsonformatter.org/scss-to-css_  // Css converter  
 
 
 
