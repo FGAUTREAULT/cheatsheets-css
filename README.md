@@ -53,6 +53,7 @@ It's a repository gathering resources about css.
 > _https://keyframes.app/_  
 > _https://bennettfeely.com/clippy/_  //Css clippath shapes  
 > _https://jsonformatter.org/scss-to-css_  // Css converter  
+> _https://9elements.github.io/fancy-border-radius/_  // Fancy border radius for shapes
 
 
 
