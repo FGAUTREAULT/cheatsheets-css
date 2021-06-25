@@ -82,6 +82,8 @@ It's a repository gathering resources about css.
 > _https://animista.net/_  
 > _https://www.minimamente.com/project/magic/_  
 > _https://emilkowalski.github.io/css-effects-snippets/_  
+> _https://github.com/IanLunn/Hover_  // Hover
+> _https://codepen.io/Zaku/pen/eRmRxz_  // Liquid
 
 
 
