@@ -37,23 +37,22 @@ It's a repository gathering resources about css.
 
 
 # Audit
-> _https://www.smashingmagazine.com/2021/03/css-auditing-tools/_  
+> _https://www.smashingmagazine.com/2021/03/css-auditing-tools/_  // Css audit tools to optimize and lint Css  
 
 
 
 # Editor & Tools
-> _https://www.smashingmagazine.com/2021/03/css-generators/_  
-> _https://www.magicpattern.design/tools/blob-generator_  
-> _https://www.heropatterns.com/_  
-> _https://stripesgenerator.com/_  
-> _https://cssgradient.io/_  
-> _http://www.patternify.com/_  
-> _https://accordionslider.com/_  
-> _https://grid.layoutit.com/_  
-> _https://keyframes.app/_  
+> _https://www.smashingmagazine.com/2021/03/css-generators/_  // List of tools to generate Css gradient, shadows...  
+> _https://www.magicpattern.design/tools/blob-generator_  // Magical Css visual effects  
+> _https://www.heropatterns.com/_  // A collection of repeatable SVG background patterns  
+> _https://stripesgenerator.com/_  // Generate linear gradient stripes  
+> _https://cssgradient.io/_  // Css gradient generator  
+> _https://accordionslider.com/_  // CSS Accordion Slider Generator  
+> _https://grid.layoutit.com/_  // Generate your grid layout  
+> _https://keyframes.app/_  // Visual tools to help generate CSS  
 > _https://bennettfeely.com/clippy/_  //Css clippath shapes  
 > _https://jsonformatter.org/scss-to-css_  // Css converter  
-> _https://9elements.github.io/fancy-border-radius/_  // Fancy border radius for shapes
+> _https://9elements.github.io/fancy-border-radius/_  // Fancy border radius for shapes  
 
 
 
