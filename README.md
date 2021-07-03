@@ -2,6 +2,9 @@
 
 It's a repository gathering resources about css.
 
+# 📰 Bloging 📰
+> [Layout & Responsive](https://github.com/FGAUTREAULT/cheatsheets-css/wiki)  
+
 # 💻 Coding 💻
 ## [Responsive](https://web.dev/responsive-web-design-basics)
 > Viewport meta tag 🚧  
