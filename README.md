@@ -1,8 +1,11 @@
-# Welcome to cheatsheets-frontend
+# Welcome to cheatsheets-css
 
 It's a repository gathering resources about css.
 
-# Learning
+# 💻 Coding 💻
+> Layout examples using positioning, flexbox, cssgrid or multicol technique 🚧
+
+# 🎓 Learning 🎓
 > _https://learn.shayhowe.com/_  
 > _https://learnlayout.com/_  
 > _https://www.csstutorial.net/_  
@@ -81,8 +84,8 @@ It's a repository gathering resources about css.
 > _https://animista.net/_  
 > _https://www.minimamente.com/project/magic/_  
 > _https://emilkowalski.github.io/css-effects-snippets/_  
-> _https://github.com/IanLunn/Hover_  // Hover
-> _https://codepen.io/Zaku/pen/eRmRxz_  // Liquid
+> _https://github.com/IanLunn/Hover_  // Hover  
+> _https://codepen.io/Zaku/pen/eRmRxz_  // Liquid  
 
 
 
