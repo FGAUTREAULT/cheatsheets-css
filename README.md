@@ -2,7 +2,7 @@
 
 It's a repository gathering resources about css.
 
-# 📰 Bloging 📰
+# 📰 Blogging 📰
 > [Layout & Responsive](https://github.com/FGAUTREAULT/cheatsheets-css/wiki)  
 
 # 💻 Coding 💻
