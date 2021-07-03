@@ -3,7 +3,11 @@
 It's a repository gathering resources about css.
 
 # 💻 Coding 💻
-> Layout examples using positioning, flexbox, cssgrid or multicol technique 🚧
+## [Responsive](https://web.dev/responsive-web-design-basics)
+> Viewport meta tag 🚧  
+> Layout examples using positioning, flexbox, cssgrid or multicol technique 🚧  
+> Media queries & breakpoints 🚧  
+> Tools - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/device-mode/), [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 # 🎓 Learning 🎓
 > _https://learn.shayhowe.com/_  
