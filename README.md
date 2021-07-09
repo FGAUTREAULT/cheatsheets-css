@@ -110,5 +110,5 @@ It's a repository gathering resources about css.
 
 
 # Chrome Extensions
-> _https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk_  
-> _https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg_  
+> _https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk_  // Extract CSS and build beautiful styleguides  
+> _https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg_  // Choose color from webpage and more  
