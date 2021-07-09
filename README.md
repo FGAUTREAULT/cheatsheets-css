@@ -78,8 +78,8 @@ It's a repository gathering resources about css.
 
 
 # Colors
-> _https://cssgradient.io/_  
-> _https://mycolor.space/_  
+> _https://cssgradient.io/_  // Generate gradient, shades, backgrounds, ...  
+> _https://mycolor.space/_  // Generate color palette from main color  
 
 
 
