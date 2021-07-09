@@ -84,13 +84,11 @@ It's a repository gathering resources about css.
 
 
 # Animations
-> _https://animate.style/_  
-> _https://tholman.com/obnoxious/_  
-> _https://elrumordelaluz.github.io/csshake/_  
-> _https://animxyz.com/_  
-> _https://animista.net/_  
-> _https://www.minimamente.com/project/magic/_  
-> _https://emilkowalski.github.io/css-effects-snippets/_  
+> _https://animate.style/_  // Powerpoint like animations  
+> _https://elrumordelaluz.github.io/csshake/_  // Shake animations  
+> _https://animxyz.com/_  // Composable Css animation toolkit  
+> _https://animista.net/_  // Powerpoint like animations  
+> _https://www.minimamente.com/project/magic/_  // Button animations  
 > _https://github.com/IanLunn/Hover_  // Hover  
 > _https://codepen.io/Zaku/pen/eRmRxz_  // Liquid  
 
